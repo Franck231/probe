@@ -1,0 +1,46 @@
+Body{
+	padding: 5px;
+	margin:5px;
+	background-color: white;
+	font-family: Arial;
+	color: blue
+
+}
+#Enveloppe{
+	background-color:gray;
+	border-style: super;
+	border-width: 2px 2px 2px 2px;
+	border-color: black;
+	padding: 20px;
+	margin: 10px Auto 10px auto;
+	width: 900px
+	
+	
+}
+#Entete{
+	background-color: gray ;
+	padding:20px ;
+	margin: 0px;
+	border-style:slow ;
+	border-width:2px 2px 3px 2px ;
+	border-color: red;
+	
+}
+#Donnees{
+	background-color: gray ;
+	padding:20px ;
+	margin: px;
+	border-style:slow ;
+	border-width:10px 10px 10px 10px ;
+	border-color: red;
+	
+}
+
+th,td{
+	border : 2px solid black;
+	border-width: 1px 2px 1px 2px;
+}
+
+
+
+
